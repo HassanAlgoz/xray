@@ -1,0 +1,10 @@
+{
+    "learning_rate": 0.001,
+    "batch_size": 32,
+    "num_epochs": 2,
+    "max_input_length": 30,
+    "num_heads": 10,
+    "num_classes": 2,
+    "save_summary_steps": 100,
+    "num_layers": 8
+}
