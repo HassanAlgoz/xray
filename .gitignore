@@ -110,3 +110,4 @@ data/**/*.csv
 .vscode
 
 data/
+*.pth
