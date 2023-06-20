@@ -1,5 +1,0 @@
-numpy
-Pillow
-torch>=2.0
-tabulate
-tqdm
